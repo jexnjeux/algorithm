@@ -10,6 +10,7 @@
 |4| |[문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181943.java)|
 |5| |[두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181938.java)|
 |6| |[공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181936.java)|
-|6| |[홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181935.java)|
-|6| |[flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181933.java)|
-|6| |[이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181928.java)|
+|7| |[홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181935.java)|
+|8| |[flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181933.java)|
+|9| |[이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181928.java)|
+|10| |[수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181924.java)|
