@@ -15,3 +15,4 @@
 |9| |[이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181928.java)|
 |10| |[수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181924.java)|
 |11| |[수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181923.java)|
+|12| |[수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181922.java)|
