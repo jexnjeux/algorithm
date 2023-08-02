@@ -15,14 +15,21 @@ public class P181913 {
 //    return answer.toString();
 //  }
 
-//  2.
+  //  2.
   public String solution(String my_string, int[][] queries) {
-    char[] arr = my_string.toCharArray(); for(int[] x : queries){
+    char[] arr = my_string.toCharArray();
+    for (int[] x : queries) {
       int left = x[0];
-      int right = x[1]; while(left < right){
-        char tmp = arr[left]; arr[left] = arr[right]; arr[right] = tmp; left++;
-        right--; }
+      int right = x[1];
+      while (left < right) {
+        char tmp = arr[left];
+        arr[left] = arr[right];
+        arr[right] = tmp;
+        left++;
+        right--;
+      }
     }
-    return String.valueOf(arr); }
+    return String.valueOf(arr);
+  }
 
 }
