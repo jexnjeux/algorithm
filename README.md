@@ -21,3 +21,4 @@
 |15| |[문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181913.java)|
 |16| |[부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181911.java)|
 |17| |[접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181909.java)|
+|18| |[배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181901.java)|
