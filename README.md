@@ -23,3 +23,4 @@
 |17| |[접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181909.java)|
 |18| |[배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181901.java)|
 |19| |[카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181899.java)|
+|20| |[가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181898.java)|
