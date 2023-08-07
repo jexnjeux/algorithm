@@ -29,3 +29,4 @@
 |23| |[순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181891.java)|
 |24| |[5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181886.java)|
 |25| |[할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181885.java)|
+|26| |[원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181878.java)|
