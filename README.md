@@ -33,3 +33,4 @@
 |27| |[특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181873.java)|
 |28| |[문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181871.java)|
 |29| |[공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181868.java)|
+|30| |[x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181867.java)|
