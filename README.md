@@ -36,3 +36,4 @@
 |30| |[x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181867.java)|
 |31| |[문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181866.java)|
 |32| |[배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181861.java)|
+|33| |[빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181860.java)|
