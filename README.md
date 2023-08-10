@@ -37,3 +37,4 @@
 |31| |[문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181866.java)|
 |32| |[배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181861.java)|
 |33| |[빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181860.java)|
+|34| |[뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181853.java)|
