@@ -40,3 +40,5 @@
 |34| |[뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181853.java)|
 |35| |[전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181851.java)|
 |36| |[문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181849.java)|
+|37| |[문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181849.java)|
+|38| |[문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181848.java)|
