@@ -45,3 +45,4 @@
 |39| |[문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181845.java)|
 |40| |[배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181844.java)|
 |41| |[부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181842.java)|
+|42| |[꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181841.java)|
