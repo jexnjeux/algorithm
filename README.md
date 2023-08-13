@@ -48,4 +48,5 @@
 |42| |[꼬리 문자ㅋ](https://school.programmers.co.kr/learn/courses/30/lessons/181841)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181841.java)|
 |43| |[커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181837.java)|
 |44| |[특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181833.java)|
+|44| |[특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181831)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181831.java)|
 
