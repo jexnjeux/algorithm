@@ -50,4 +50,5 @@
 |44| |[특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181833.java)|
 |45| |[특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181831)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181831.java)|
 |46| |[이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181829.java)|
+|47| |[정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181832.java)|
 
