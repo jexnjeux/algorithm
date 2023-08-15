@@ -51,4 +51,5 @@
 |45| |[이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181829.java)|
 |46| |[정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181832.java)|
 |47| |[연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120923.java)|
+|48| |[7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120912.java)|
 
