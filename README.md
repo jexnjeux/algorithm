@@ -40,15 +40,15 @@
 |34| |[뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181853.java)|
 |35| |[전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181851.java)|
 |36| |[문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181849.java)|
-|37| |[문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181849.java)|
-|38| |[문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181848.java)|
-|39| |[문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181845.java)|
-|40| |[배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181844.java)|
-|41| |[부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181842.java)|
-|42| |[꼬리 문자ㅋ](https://school.programmers.co.kr/learn/courses/30/lessons/181841)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181841.java)|
-|43| |[커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181837.java)|
-|44| |[특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181833.java)|
-|45| |[특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181831)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181831.java)|
-|46| |[이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181829.java)|
-|47| |[정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181832.java)|
+|37| |[문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181848.java)|
+|38| |[문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181845.java)|
+|39| |[배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181844.java)|
+|40| |[부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181842.java)|
+|41| |[꼬리 문자](https://school.programmers.co.kr/learn/courses/30/lessons/181841)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181841.java)|
+|42| |[커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181837.java)|
+|43| |[특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181833.java)|
+|44| |[특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181831)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181831.java)|
+|45| |[이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181829.java)|
+|46| |[정수를 나선형으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/181832)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181832.java)|
+|47| |[연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120923.java)|
 
