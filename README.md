@@ -54,4 +54,5 @@
 |48| |[7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120912.java)|
 |49| |[문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120911.java)|
 |50| |[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120906.java)|
+|51| |[OX 퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120907.java)|
 
