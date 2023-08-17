@@ -57,4 +57,5 @@
 |51| |[OX 퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120907.java)|
 |52| |[숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120904.java)|
 |53| |[한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120896.java)|
+|54| |[암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120892.java)|
 
