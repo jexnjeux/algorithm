@@ -60,5 +60,6 @@
 |54| |[암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120892.java)|
 |55| |[369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120891.java)|
 |56| |[가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120890.java)|
-|57| |[가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120888)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120888.java)|
+|57| |[중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120888.java)|
+|58| |[이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120885.java)|
 
