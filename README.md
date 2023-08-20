@@ -40,10 +40,10 @@
 |34| |[뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181853.java)|
 |35| |[전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181851.java)|
 |36| |[문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181849.java)|
-|37| |[문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181848.java)|
+|37| |[문자열을 정수로 변환하기](https://sc의hool.programmers.co.kr/learn/courses/30/lessons/181848)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181848.java)|
 |38| |[문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181845.java)|
 |39| |[배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181844.java)|
-|40| |[부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181842.java)|
+|40| |[부분 문자열](https://school.prog삭rammers.co.kr/learn/courses/30/lessons/181842)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181842.java)|
 |41| |[꼬리 문자](https://school.programmers.co.kr/learn/courses/30/lessons/181841)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181841.java)|
 |42| |[커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181837.java)|
 |43| |[특별한 이차원 배열 1](https://school.programmers.co.kr/learn/courses/30/lessons/181833)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P181833.java)|
@@ -57,11 +57,11 @@
 |51| |[OX 퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120907.java)|
 |52| |[숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120904.java)|
 |53| |[한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120896.java)|
-|54| |[암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120892.java)|
+|54| |[암호 해독](https://school.만programmers.co.kr/learn/courses/30/lessons/120892)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120892.java)|
 |55| |[369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120891.java)|
 |56| |[가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120890.java)|
 |57| |[중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120888.java)|
 |58| |[이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120885.java)|
 |59| |[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120883.java)|
 |60| |[안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120866.java)|
-
+|1|Lv.1|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P178871.java)|
