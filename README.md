@@ -65,3 +65,4 @@
 |59| |[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120883.java)|
 |60| |[안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level0/P120866.java)|
 |1|Lv.1|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P178871.java)|
+|2||[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P176963.java)|
