@@ -67,3 +67,4 @@
 |1|Lv.1|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P178871.java)|
 |2||[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P176963.java)|
 |3||[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P172928.java)|
+|4||[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P161990.java)|
