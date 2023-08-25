@@ -69,3 +69,4 @@
 |3||[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P172928.java)|
 |4||[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P161990.java)|
 |5||[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P161989.java)|
+|6||[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P160586.java)|
