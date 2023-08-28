@@ -72,3 +72,4 @@
 |6||[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P160586.java)|
 |7||[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P133502.java)|
 |8||[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P131705.java)|
+|9||[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P131128.java)|
