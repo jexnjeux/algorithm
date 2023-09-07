@@ -75,3 +75,4 @@
 |9||[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P131128.java)|
 |10||[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P118666.java)|
 |11||[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P92334.java)|
+|12||[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P86051.java)|
