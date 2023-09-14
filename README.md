@@ -80,3 +80,4 @@
 |14||[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P67256.java)|
 |15||[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P64061.java)|
 |16||[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P42862.java)|
+|17||[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P42576.java)|
