@@ -81,3 +81,4 @@
 |15||[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P64061.java)|
 |16||[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P42862.java)|
 |17||[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P42576.java)|
+|1|Lv.2|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level2/P178870.java)|
