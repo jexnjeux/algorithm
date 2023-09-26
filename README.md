@@ -83,3 +83,10 @@
 |17||[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level1/P42576.java)|
 |1|Lv.2|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level2/P178870.java)|
 |1|Lv.3|[보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/programmers/level3/P67258.java)|
+
+
+## 백준
+
+| |분류|제목|코드|
+|-|---|---|---|
+|1|bfs|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/bfs/B11725.java)
