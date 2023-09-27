@@ -1,5 +1,8 @@
 # algorithm
 
+[1. 프로그래머스](#프로그래머스) <br/>
+[2. 백준](#백준)
+
 ## 프로그래머스
 
 | |레벨|제목|코드|
@@ -90,3 +93,4 @@
 | |분류|제목|코드|
 |-|---|---|---|
 |1|bfs|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/bfs/B11725.java)
+|1|two pointer|[수들의 합 2](https://www.acmicpc.net/problem/2003)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/twopointer/B2003.java)
