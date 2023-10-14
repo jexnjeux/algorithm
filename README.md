@@ -97,3 +97,4 @@
 |-|---|---|---|
 |1|bfs|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/bfs/B11725.java)
 |1|two pointer|[수들의 합 2](https://www.acmicpc.net/problem/2003)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/twopointer/B2003.java)
+|1|tree|[트리 순회](https://www.acmicpc.net/problem/1991)|[보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/tree/B1991.java)
