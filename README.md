@@ -100,3 +100,4 @@
 | 1 | tree        | [트리 순회](https://www.acmicpc.net/problem/1991)       | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/tree/B1991.java)       |
 | 1 | prefix sum  | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/prefixsum/B11659.java) |
 | 2 |             | [구간 합 구하기 2](https://www.acmicpc.net/problem/11660) | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/prefixsum/B11660.java) |
+| 1 | sort        | [수 정렬하기](https://www.acmicpc.net/problem/2750)      | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/sort/B2750.java)       |
