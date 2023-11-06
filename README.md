@@ -101,3 +101,4 @@
 | 1 | prefix sum  | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/prefixsum/B11659.java) |
 | 2 |             | [구간 합 구하기 2](https://www.acmicpc.net/problem/11660) | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/prefixsum/B11660.java) |
 | 1 | sort        | [수 정렬하기](https://www.acmicpc.net/problem/2750)      | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/sort/B2750.java)       |
+| 1 | trie        | [문자열 찾기](https://www.acmicpc.net/problem/14425)     | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/trie/B14425.java)      |
