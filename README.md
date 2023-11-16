@@ -92,13 +92,14 @@
 
 ## 백준
 
-|   | 분류          | 제목                                                  | 코드                                                                                       |
-|---|-------------|-----------------------------------------------------|------------------------------------------------------------------------------------------|
-| 1 | bfs         | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)  | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/bfs/B11725.java)       |
-| 1 | two pointer | [수들의 합 2](https://www.acmicpc.net/problem/2003)     | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/twopointer/B2003.java) |
-| 2 |             | [좋다](https://www.acmicpc.net/problem/1253)          | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/twopointer/B1253.java) |
-| 1 | tree        | [트리 순회](https://www.acmicpc.net/problem/1991)       | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/tree/B1991.java)       |
-| 1 | prefix sum  | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/prefixsum/B11659.java) |
-| 2 |             | [구간 합 구하기 2](https://www.acmicpc.net/problem/11660) | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/prefixsum/B11660.java) |
-| 1 | sort        | [수 정렬하기](https://www.acmicpc.net/problem/2750)      | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/sort/B2750.java)       |
-| 1 | trie        | [문자열 찾기](https://www.acmicpc.net/problem/14425)     | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/trie/B14425.java)      |
+|   | 분류             | 제목                                                  | 코드                                                                                          |
+|---|----------------|-----------------------------------------------------|---------------------------------------------------------------------------------------------|
+| 1 | bfs            | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)  | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/bfs/B11725.java)          |
+| 1 | two pointer    | [수들의 합 2](https://www.acmicpc.net/problem/2003)     | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/twopointer/B2003.java)    |
+| 2 |                | [좋다](https://www.acmicpc.net/problem/1253)          | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/twopointer/B1253.java)    |
+| 1 | tree           | [트리 순회](https://www.acmicpc.net/problem/1991)       | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/tree/B1991.java)          |
+| 1 | prefix sum     | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/prefixsum/B11659.java)    |
+| 2 |                | [구간 합 구하기 2](https://www.acmicpc.net/problem/11660) | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/prefixsum/B11660.java)    |
+| 1 | sort           | [수 정렬하기](https://www.acmicpc.net/problem/2750)      | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/sort/B2750.java)          |
+| 1 | trie           | [문자열 찾기](https://www.acmicpc.net/problem/14425)     | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/trie/B14425.java)         |
+| 1 | priority queue | [가운데를 말해요](https://www.acmicpc.net/problem/1655)    | [보기](https://github.com/jexnjeux/algorithm/blob/main/src/baekjoon/priorityqueue/B1655.java) |
